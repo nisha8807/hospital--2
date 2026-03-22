@@ -1,0 +1,12 @@
+﻿Patient_ID,Patient_Name,Age,Gender,Department,Doctor_Name,Admission_Date,Discharge_Date,Length_Of_Stay,Bed_Type,Admission_Type,Status,Doctor_Fees,Room_Charges,Total_Bill,City
+P001,Amit,45,M,Cardiology,Dr Sharma,01-01-2025,05-01-2025,4,ICU,Emergency,Discharged,5000,20000,25000,Delhi
+P002,Neha,30,F,Neurology,Dr Mehta,02-01-2025,06-01-2025,4,General,Routine,Discharged,4000,12000,16000,Gurgaon
+p003,Rahul,60,M,Orthopedic,Dr singh,03-01-2025,10-01-2025,7,ICU,Emergency,Admitted,7000,30000,37000,Delhi
+P004,Priya,25,F,Gynecology,Dr Gupta,04-01-2025,07-01-2025,3,General,Routine,Discharged,3000,9000,12000,Noida
+P005,Arjun,50,M,Cardiology,Dr Sharma,05-01-2025,09-01-2025,4,ICU,Emergency,Expired,6000,25000,31000,Delhi
+P006,Simran,35,F,Neurology,Dr Mehta,06-01-2025,08-01-2025,2,General,Routine,Discharged,3500,8000,11500,Gurgaon
+P007,Karan,40,M,Orthopedic,Dr Singh,07-01-2025,12-01-2025,5,ICU,Emergency,Admitted,6500,27000,33500,Noida
+P008,Riya,28,F,Gynecology,Dr Gupta,08-01-2025,11-01-2025,3,General,Routine,Discharged,3200,9500,12700,Delhi
+P009,Vikas,55,M,Cardiology,Dr Sharma,09-01-2025,13-01-2025,4,ICU,Emergency,Discharged,5500,22000,27500,Gurgaon
+P010,Anjali,32,F,Neurology,Dr Mehta,10-01-2025,14-01-2025,4,General,Routine,Discharged,4200,11000,15200,Noida
+,,,,,,,,,,,,,,,
